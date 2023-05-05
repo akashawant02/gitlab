@@ -1,6 +1,6 @@
-package pgdac_march23a;
 
-public class pattern3 {
+
+public class Pattern {
 
 	public static void main(String[] args) {
 		int space=3;
